@@ -40,6 +40,6 @@ python3 src/game.py
 
 
 ## Screenshots
-- Win: 
+- Win: docs/screenshots/win.png
 
 - Lose: docs/screenshots/lose.png
