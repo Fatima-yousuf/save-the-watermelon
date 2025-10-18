@@ -1,5 +1,5 @@
 # Save the Watermelon - Pseudocode
-
+```text
 FUNCTION main_game_loop
   secret_word ← get_random_word()
   guessed_letters ← empty set
@@ -27,3 +27,4 @@ FUNCTION main_game_loop
     DISPLAY "Oh no! The watermelon was sliced!"
   ENDIF
 END FUNCTION
+```
