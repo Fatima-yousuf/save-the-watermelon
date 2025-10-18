@@ -40,6 +40,10 @@ python3 src/game.py
 
 
 ## Screenshots
-- Win: docs/screenshots/win.png
+### Win
+![Win Screenshot](docs/screenshots/Win Screenshot-docs.png)
+![Win Screenshot 2](docs/screenshots/Win-Screenshot-docs-.png)
 
-- Lose: docs/screenshots/lose.png
+### Lose
+![Lose Screenshot](docs/screenshots/Lose Screenshot-docs.png)
+![Lose Screenshot 2](docs/screenshots/Lose-Screenshot-docs-.png)
