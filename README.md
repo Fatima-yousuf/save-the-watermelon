@@ -26,7 +26,7 @@ cd ~/save-the-watermelon
 python3 src/game.py
 How to Test the Game
 Use the following test cases to verify that the game works correctly:
-
+```
 ## Test Case	Input	Expected Result
 Correct guess	Letter in word	Letter revealed in masked word
 Incorrect guess	Letter not in word	Slice count decreases
