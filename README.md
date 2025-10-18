@@ -35,8 +35,7 @@ Non-letter input	Number or symbol	Error message, input rejected
 Win scenario	Guess all letters	Message "You saved the watermelon!"
 Lose scenario	Run out of slices	Message "Oh no! The watermelon was sliced!"
 
-Screenshots:
-
+Screenshots
 Win: docs/screenshots/win.png
 
 Lose: docs/screenshots/lose.png
