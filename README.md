@@ -43,6 +43,3 @@ python3 src/game.py
 - Win: docs/screenshots/win.png
 
 - Lose: docs/screenshots/lose.png
-
-## Credits
-Developed by Fatima Yousuf for CISC 150 class project.
