@@ -38,7 +38,12 @@ python3 src/game.py
 | Win scenario     | Guess all letters     | Message "You saved the watermelon!"     |
 | Lose scenario    | Run out of slices     | Message "Oh no! The watermelon was sliced!" |
 
+### Automated Testing (Optional)
+If you want to run the built-in unit tests, run this command in your terminal:
 
+```bash
+python3 -m unittest discover -s tests
+```
 ## Screenshots
 ### Win
 ![Win Screenshot 1](docs/screenshots/Win%20Screenshot-docs.png)
