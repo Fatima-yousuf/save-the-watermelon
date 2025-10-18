@@ -1,7 +1,7 @@
 # src/game.py
 
-from src.logic import check_guess, is_word_revealed, get_masked_word
-from src.words import get_random_word
+from .logic import check_guess, is_word_revealed, get_masked_word
+from .words import get_random_word
 
 def main():
     secret_word = get_random_word()
